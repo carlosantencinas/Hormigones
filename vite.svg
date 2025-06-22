@@ -1,1 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--logos" width="31.88" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 257"><defs><linearGradient id="IconifyId1813088fe1fbc01fb466" x1="-.828%" x2="57.636%" y1="7.652%" y2="78.411%"><stop offset="0%" stop-color="#41D1FF"></stop><stop offset="100%" stop-color="#BD34FE"></stop></linearGradient><linearGradient id="IconifyId1813088fe1fbc01fb467" x1="43.376%" x2="50.316%" y1="2.242%" y2="89.03%"><stop offset="0%" stop-color="#FFEA83"></stop><stop offset="8.333%" stop-color="#FFDD35"></stop><stop offset="100%" stop-color="#FFA800"></stop></linearGradient></defs><path fill="url(#IconifyId1813088fe1fbc01fb466)" d="M255.153 37.938L134.897 252.976c-2.483 4.44-8.862 4.466-11.382.048L.875 37.958c-2.746-4.814 1.371-10.646 6.827-9.67l120.385 21.517a6.537 6.537 0 0 0 2.322-.004l117.867-21.483c5.438-.991 9.574 4.796 6.877 9.62Z"></path><path fill="url(#IconifyId1813088fe1fbc01fb467)" d="M185.432.063L96.44 17.501a3.268 3.268 0 0 0-2.634 3.014l-5.474 92.456a3.268 3.268 0 0 0 3.997 3.378l24.777-5.718c2.318-.535 4.413 1.507 3.936 3.838l-7.361 36.047c-.495 2.426 1.782 4.5 4.151 3.78l15.304-4.649c2.372-.72 4.652 1.36 4.15 3.788l-11.698 56.621c-.732 3.542 3.979 5.473 5.943 2.437l1.313-2.028l72.516-144.72c1.215-2.423-.88-5.186-3.54-4.672l-25.505 4.922c-2.396.462-4.435-1.77-3.759-4.114l16.646-57.705c.677-2.35-1.37-4.583-3.769-4.113Z"></path></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #666;
+      }
+
+      .cls-3 {
+        fill: gray;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" width="1024" height="1024"/>
+    </clipPath>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <g>
+      <rect class="cls-3" width="1024" height="1024"/>
+      <g class="cls-5">
+        <rect class="cls-2" x="-422.5" y="374.14" width="570" height="278.73" rx="31.63" ry="31.63"/>
+        <rect class="cls-2" x="-91.5" y="43.14" width="570" height="278.73" rx="31.63" ry="31.63"/>
+        <rect class="cls-2" x="902" y="373.14" width="570" height="278.73" rx="31.63" ry="31.63"/>
+        <rect class="cls-2" x="571" y="43.14" width="570" height="278.73" rx="31.63" ry="31.63"/>
+        <rect class="cls-2" x="-91" y="704.14" width="570" height="278.73" rx="31.63" ry="31.63"/>
+        <rect class="cls-2" x="571" y="703.14" width="570" height="278.73" rx="31.63" ry="31.63"/>
+        <rect class="cls-2" x="240" y="373.14" width="570" height="278.73" rx="31.63" ry="31.63"/>
+      </g>
+      <g>
+        <path class="cls-4" d="M186.78,566.89v341.82h-68.79v-341.82h68.79ZM307.45,705.16v57.05h-140.15v-57.05h140.15ZM357.22,566.89v341.82h-68.08v-341.82h68.08Z"/>
+        <path class="cls-4" d="M415.21,626.99c0-11.89,2.89-22.73,8.69-32.52,5.79-9.78,13.54-17.61,23.24-23.48,9.7-5.87,20.34-8.8,31.93-8.8s21.95,2.93,31.58,8.8c9.63,5.87,17.21,13.7,22.77,23.48,5.55,9.78,8.33,20.62,8.33,32.52s-2.78,22.42-8.33,32.04c-5.56,9.62-13.15,17.3-22.77,23.01-9.62,5.71-20.15,8.57-31.58,8.57s-22.23-2.85-31.93-8.57c-9.71-5.71-17.45-13.38-23.24-23.01-5.79-9.62-8.69-20.31-8.69-32.04ZM449.71,626.99c0,8.3,2.89,15.22,8.69,20.78,5.79,5.56,12.68,8.33,20.66,8.33s14.91-2.78,20.31-8.33c5.4-5.55,8.1-12.48,8.1-20.78s-2.7-15.77-8.1-21.48c-5.4-5.71-12.17-8.57-20.31-8.57s-14.87,2.86-20.66,8.57c-5.79,5.71-8.69,12.88-8.69,21.48Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
